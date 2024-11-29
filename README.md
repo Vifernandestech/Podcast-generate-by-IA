@@ -6,9 +6,6 @@ Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido no projeto realizado ao decorrer do curso "Criando um Podcast com IAs Generativas". Projeto que seguiu com o tema "Tecnologia, Cibersegurança e Propósito: Conectando o Futuro com Minha História" e com o título "Código Humano: Decifrando Propósitos na Era Digital" plataforma de ensino da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
-
 Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - Código Humano Decifrando Propósitos na Era Digital.mp3` dentro deste repositório ou clique aqui: [Ir para a página de download](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/EP01_CodigoHumano_DecifrandoProp%C3%B3sitos_na_EraDigital_Edit.mp3). Reproduza-o na plataforma em que realizou o download e desfrute do poder da Inteligência Artificial e do Processamento da Linguagem Natural hoje disponível a nós por advento da tecnologia.  
 
 ## 💻 Tecnologias utilizadas no projeto
