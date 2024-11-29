@@ -46,7 +46,7 @@ Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado para j
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/188496877?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
