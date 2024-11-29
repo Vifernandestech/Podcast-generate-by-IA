@@ -8,22 +8,36 @@ Aqui estão os principais prompts utilizados durante o desenvolvimento deste pro
 ### **Prompt 2: Introdução ao Episódio**  
 **"Crie uma introdução para o podcast no estilo dos podcasts *Unsupervised Learning* de Daniel Miessler e *Café Seguro* de Daniel Dalalana e Ben-Hur Ott. Inclua uma apresentação pessoal, conexão com o tema do episódio, e a motivação para compartilhar essa história."**
 
-### **Prompt 3: Curiosidade 1**  
+PROMPT MAIS IMPORTANTE: PROMPT 3 - Episódio de Podcast – Roteirista 
+# Episódio de Podcast 
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, com o tema "Tecnologia, Cibersegurança e Propósito: Conectando o Futuro com Minha História". Este é o primeiro episódio com o título "Código Humano: Decifrando Propósitos na Era Digital" com o público alvo de iniciantes em cibersegurança, jovens iniciantes na tecnologia, pessoas que querem mudar de vida, pessoas que tem senso crítico e que notam que as coisas não estão certas e precisamos mudar. O podcast explora como a tecnologia, a cibersegurança e a inteligência artificial não apenas moldam o mundo, mas também ajudam a redefinir caminhos pessoais e a encontrar propósito. O objetivo é inspirar e educar, unindo visão técnica e valores humanos.
+o formato do roteiro deve ser 
+[INTRODUÇÃO] 
+[CURIOSIDADE 1] 
+[CURIOSIDADE 2] 
+[FINALIZAÇÃO] 
+{REGRAS}
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos podcasts Unsupervised Learning – Daniel Miessler e Café Seguro de Daniel Dalalana e Ben-Hur Ott. 
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Segurança Cibernética no Brasil em relação ao mundo 
+- no bloco [CURIOSIDADE 2] como a tecnologia, a cibersegurança e a inteligência artificial não apenas moldam o mundo, mas também ajudam a redefinir caminhos pessoais e a encontrar propósito.
+
+
+### **Prompt 3.1: Curiosidade 1**  
 **"Adicione uma curiosidade sobre a posição do Brasil no cenário global de cibersegurança e explique sua importância de forma acessível."**
 
-### **Prompt 4: Curiosidade 2**  
+### **Prompt 3.2: Curiosidade 2**  
 **"Descreva como a tecnologia, a cibersegurança e a inteligência artificial não apenas moldam o mundo, mas ajudam a redefinir caminhos pessoais e a encontrar propósito, conectando isso com histórias inspiradoras."**
 
-### **Prompt 5: Curiosidade 3**  
+### **Prompt 3.3: Curiosidade 3**  
 **"Explore os impactos da cibersegurança e da inteligência artificial na transformação digital e como isso está mudando vidas, especialmente de jovens e pessoas em transição de carreira."**
 
-### **Prompt 6: Finalização do Episódio**  
+### **Prompt 3.4: Finalização do Episódio**  
 **"Crie uma finalização breve, motivadora e com um toque cool. Encerre com a frase: 'Eu sou Vitor Fernandes e agradeço por me acompanharem nessa jornada. Vejo vocês na próxima: *‘A tecnologia é apenas uma ferramenta. As pessoas dão sentido à tecnologia’* de Bill Gates'."**
 
-### **Prompt 7: Capas do Podcast**  
+### **Prompt 5: Capas do Podcast**  
 **"Crie descrições para gerar capas para o podcast no MidJourney. O tema é 'Código Humano: Decifrando Propósitos na Era Digital'. Inclua elementos como engrenagens tecnológicas, tons futuristas e uma conexão com valores humanos."**
 
-### **Prompt 8: Descrição do Projeto no GitHub**  
+### **Prompt 6: Descrição do Projeto no GitHub**  
 **"Elabore um texto para a descrição do projeto no GitHub, destacando as tecnologias utilizadas, o processo criativo e as instruções de execução para criar um podcast utilizando ferramentas de IA. Certifique-se de organizar em seções como Objetivo, Tecnologias, Materiais e Instruções de Execução."**
 
 ---
