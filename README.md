@@ -48,7 +48,7 @@ Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado para j
       width=80 
       src="https://avatars.githubusercontent.com/u/188496877?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspVitor Fernandes<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Vifernandestech">
