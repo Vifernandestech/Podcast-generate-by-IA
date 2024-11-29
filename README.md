@@ -9,7 +9,7 @@ Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
-Realize o download do arquivo `.mp3` no arquivo `EP 01 - Código Humano Decifrando Propósitos na Era Digital.mp3`
+Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - Código Humano Decifrando Propósitos na Era Digital.mp3` dentro deste repositório. Reproduza-o na plataforma em que realizou o download e desfrute do poder da Inteligência Artificial e do Processamento da Linguegem Natural hoje disponível a nós para desfrutarmos. 
 
 ## 💻 Tecnologias utilizadas no projeto
 
