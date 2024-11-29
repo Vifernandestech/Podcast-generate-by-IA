@@ -25,7 +25,7 @@ Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - C�
 ## 📚 Materiais
 
 - Prompts utilizados estará listado no arquivo PROMPTS deste repositório 
-- Imagens geradas pelo LeonardoAI para a capa do podcast nos arquivos IMAGEM1 e IMAGEM2 dentro deste diretório
+- Imagens geradas pelo LeonardoAI para a capa do podcast nos arquivos IMAGEM1 e IMAGEM2 dentro deste repositório. Ou clique aqui para acessá-las [IMAGEM1](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/IMAGEM1.jpg) E [IMAGEM2](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/IMAGEM2.jpg)
 
 
 ## 🛠️ Instruções de execução
