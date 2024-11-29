@@ -27,8 +27,8 @@ Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - C�
 
 ## 📚 Materiais
 
-- Prompts utilizados estará listado na pasta PROMPTS deste repositório 
-- Imagens geradas pelo LeonardoAI para a capa do podcast na pasta IMAGENS
+- Prompts utilizados estará listado no arquivo PROMPTS deste repositório 
+- Imagens geradas pelo LeonardoAI para a capa do podcast nos arquivos Default_Crie_uma_capa_de_podcast_para_o_projeto_Cdigo_Humano_D_0.jpg e Leonardo_Phoenix_Crie_uma_capa_de_podcast_para_o_projeto_Cdigo_1.jpg com o commit IMAGENS
 
 
 ## 🛠️ Instruções de execução
