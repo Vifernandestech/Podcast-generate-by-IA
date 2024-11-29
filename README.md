@@ -56,7 +56,7 @@ Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado para j
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/vifernandescybersec">
+        href="http://www.linkedin.com/in/vifernandescybersec">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
