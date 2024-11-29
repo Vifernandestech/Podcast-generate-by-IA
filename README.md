@@ -4,11 +4,10 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido no projeto que seguiu o tema "Tecnologia, Cibersegurança e Propósito: Conectando o Futuro com Minha História" e com o título "Código Humano: Decifrando Propósitos na Era Digital" pelo curso "Criando um Podcast com IAs Generativas" da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido no projeto realizado ao decorrer do curso "Criando um Podcast com IAs Generativas". Projeto que seguiu com o tema "Tecnologia, Cibersegurança e Propósito: Conectando o Futuro com Minha História" e com o título "Código Humano: Decifrando Propósitos na Era Digital" plataforma de ensino da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
