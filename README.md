@@ -1,4 +1,4 @@
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por I.A.s - "Código Humano: Decifrando Propósitos na Era Digital"
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts bem trabalhados.
 
