@@ -9,7 +9,7 @@ Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
-Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - Código Humano Decifrando Propósitos na Era Digital.mp3` dentro deste repositório ou clique aqui: [Ir para a página de download](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/EP01_CodigoHumano_DecifrandoProp%C3%B3sitos_na_EraDigital_Edit.mp3). Reproduza-o na plataforma em que realizou o download e desfrute do poder da Inteligência Artificial e do Processamento da Linguegem Natural hoje disponível a nós para desfrutarmos. 
+Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - Código Humano Decifrando Propósitos na Era Digital.mp3` dentro deste repositório ou clique aqui: [Ir para a página de download](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/EP01_CodigoHumano_DecifrandoProp%C3%B3sitos_na_EraDigital_Edit.mp3). Reproduza-o na plataforma em que realizou o download e desfrute do poder da Inteligência Artificial e do Processamento da Linguagem Natural hoje disponível a nós por advento da tecnologia.  
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -28,7 +28,7 @@ Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - C�
 ## 📚 Materiais
 
 - Prompts utilizados estará listado no arquivo PROMPTS deste repositório 
-- Imagens geradas pelo LeonardoAI para a capa do podcast nos arquivos Default_Crie_uma_capa_de_podcast_para_o_projeto_Cdigo_Humano_D_0.jpg e Leonardo_Phoenix_Crie_uma_capa_de_podcast_para_o_projeto_Cdigo_1.jpg com o commit IMAGENS
+- Imagens geradas pelo LeonardoAI para a capa do podcast nos arquivos IMAGEM1 e IMAGEM2 dentro deste diretório
 
 
 ## 🛠️ Instruções de execução
