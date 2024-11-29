@@ -24,7 +24,7 @@ Realize o download do PROJETO que está no formato `.mp3` no arquivo `EP 01 - C�
 
 ## 📚 Materiais
 
-- Prompts utilizados estará listado no arquivo PROMPTS deste repositório 
+- Prompts utilizados estão listados no arquivo PROMPTS deste repositório 
 - Imagens geradas pelo LeonardoAI para a capa do podcast nos arquivos IMAGEM1 e IMAGEM2 dentro deste repositório. Ou clique aqui para acessá-las [IMAGEM1](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/IMAGEM1.jpg) E [IMAGEM2](https://github.com/Vifernandestech/Podcast-generate-by-IA/blob/main/IMAGEM2.jpg)
 
 
@@ -34,7 +34,7 @@ Utilize os prompts dentro do arquivo `PROMPTS` citado na parte de `Materiais` pa
 
 - 🤖 1. Use os prompts de roteiro no `Chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo Chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `LeonardoAI`
+- 🤖 3. Use os prompts do artista no `LeonardoAI`
 
 Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado de artes para jogar no LeonardoAI e projetar sua capa. 
 
