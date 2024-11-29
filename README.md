@@ -9,6 +9,8 @@ Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
+Realize o download do arquivo `.mp3` no arquivo `EP 01 - Código Humano Decifrando Propósitos na Era Digital.mp3`
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -31,13 +33,13 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro da pasta `PROMPTS` citado na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro do arquivo `PROMPTS` citado na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `Chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo Chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `LeonardoAI`
 
-Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado para jogar no LeonardoAI
+Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado de artes para jogar no LeonardoAI e projetar sua capa. 
 
 ## 👨‍💻 Expert
 
