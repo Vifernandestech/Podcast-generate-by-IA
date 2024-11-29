@@ -1,7 +1,10 @@
 # Projeto Podcast Gerado por I.A.s
 
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts bem trabalhados.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
+
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido no projeto que seguiu o tema "Tecnologia, Cibersegurança e Propósito: Conectando o Futuro com Minha História" e com o título "Código Humano: Decifrando Propósitos na Era Digital" pelo curso "Criando um Podcast com IAs Generativas" da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -10,31 +13,32 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [LeonardoAI](https://app.leonardo.ai/)
+- [ElevenLabs](https://elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Roteiro gerado via Chatgpt
+- Audio gerado pela ElevenLabs
+- LeonardoAI Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Prompts utilizados estará listado na pasta PROMPTS deste repositório 
+- Imagens geradas pelo LeonardoAI para a capa do podcast na pasta IMAGENS
 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro da pasta `PROMPTS` citado na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Use os prompts de roteiro no `Chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo Chatgpt no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `LeonardoAI`
+
+Você pode pedir para o ChatGPT criar um prompt adequado e bem trabalhado para jogar no LeonardoAI
 
 ## 👨‍💻 Expert
 
@@ -48,17 +52,17 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/Vifernandestech">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/vifernandescybersec">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/_thatsnotadream/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -68,4 +72,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Vitor Fernandes](https://github.com/Vifernandestech)
